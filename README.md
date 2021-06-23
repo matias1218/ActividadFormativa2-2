@@ -1,4 +1,12 @@
 # ActividadFormativa2
+## Integrantes:
+- LUCAS OROZCO
+- FELIPE MIRANDA
+- ANDRÉS ARANCIBIA
+- KAREN MEZA
+- MATÍAS PAREDES
+- JUAN CUEVAS
+- MARCELO GUZMÁN
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
